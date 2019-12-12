@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1576139843 source:c:\users\9831029\desktop\fp-ws1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
